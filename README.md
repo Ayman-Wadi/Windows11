@@ -11,6 +11,7 @@ This is how you can activate Windows 11 in a new PC.
        
 2) Run Command Prompt app as administrator.
     <br>
+
    
 3) Install KMS client key by typing this commmand: ***slmgr /ipk LicenseKey***
    ```
