@@ -4,9 +4,6 @@ This is how you can activate Windows 11 in a new PC.
 
     
 1) Identify your Windows 11 Edition.
-  <br>
-
-    
    > Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99  
    > Pro: W269N-WFGWX-YVC9B-4J6C9-T83GX  
    > Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2  
