@@ -1,6 +1,7 @@
 # Windows11
 This is how you can activate Windows 11 in a new PC.
   <br>
+    
 1) Identify your Windows 11 Edition.
    After identifying your current Windows 11 edition , pick the corresponding key from this list.
    > Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99  
@@ -17,8 +18,9 @@ This is how you can activate Windows 11 in a new PC.
    ```
    slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
    ```
+  <br>
 
-    <br>
+    
 4) Change your KMS server to this one :
    ```
    slmgr /skms kms8.msguides.com
